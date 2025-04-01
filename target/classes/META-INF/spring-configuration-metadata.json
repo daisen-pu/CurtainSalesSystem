@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "wechat.miniapp",
+      "type": "com.tencent.wxcloudrun.config.WechatConfig",
+      "sourceType": "com.tencent.wxcloudrun.config.WechatConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wechat.miniapp.appid",
+      "type": "java.lang.String",
+      "sourceType": "com.tencent.wxcloudrun.config.WechatConfig"
+    },
+    {
+      "name": "wechat.miniapp.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.tencent.wxcloudrun.config.WechatConfig"
+    }
+  ],
+  "hints": []
+}
